@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/new-life-shop/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/new-life-shop/static/js/main.b8f7f146.chunk.js",
-    "main.js.map": "/new-life-shop/static/js/main.b8f7f146.chunk.js.map",
+    "main.css": "/new-life-shop/static/css/main.fdf4bb11.chunk.css",
+    "main.js": "/new-life-shop/static/js/main.38214c70.chunk.js",
+    "main.js.map": "/new-life-shop/static/js/main.38214c70.chunk.js.map",
     "runtime-main.js": "/new-life-shop/static/js/runtime-main.2199a143.js",
     "runtime-main.js.map": "/new-life-shop/static/js/runtime-main.2199a143.js.map",
-    "static/js/2.e453da33.chunk.js": "/new-life-shop/static/js/2.e453da33.chunk.js",
-    "static/js/2.e453da33.chunk.js.map": "/new-life-shop/static/js/2.e453da33.chunk.js.map",
+    "static/js/2.562638d9.chunk.js": "/new-life-shop/static/js/2.562638d9.chunk.js",
+    "static/js/2.562638d9.chunk.js.map": "/new-life-shop/static/js/2.562638d9.chunk.js.map",
     "static/js/3.6dcb0a4b.chunk.js": "/new-life-shop/static/js/3.6dcb0a4b.chunk.js",
     "static/js/3.6dcb0a4b.chunk.js.map": "/new-life-shop/static/js/3.6dcb0a4b.chunk.js.map",
     "index.html": "/new-life-shop/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/new-life-shop/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.e453da33.chunk.js.LICENSE.txt": "/new-life-shop/static/js/2.e453da33.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/new-life-shop/static/media/logo.6ce24c58.svg"
+    "static/css/main.fdf4bb11.chunk.css.map": "/new-life-shop/static/css/main.fdf4bb11.chunk.css.map",
+    "static/js/2.562638d9.chunk.js.LICENSE.txt": "/new-life-shop/static/js/2.562638d9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2199a143.js",
-    "static/js/2.e453da33.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.b8f7f146.chunk.js"
+    "static/js/2.562638d9.chunk.js",
+    "static/css/main.fdf4bb11.chunk.css",
+    "static/js/main.38214c70.chunk.js"
   ]
 }
