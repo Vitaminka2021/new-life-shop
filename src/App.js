@@ -1,12 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
+import Layout from './Components/Layout'
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <p>Hello Vitalina</p>
-    </div>
-  );
+    <Router>
+      <Switch>
+        <Route path="*" component={Layout} />
+      </Switch>
+    </Router>
+  )
 }
 
-export default App;
+export default App
