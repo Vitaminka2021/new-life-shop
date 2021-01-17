@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/new-life-shop/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/new-life-shop/static/js/main.ced88939.chunk.js",
-    "main.js.map": "/new-life-shop/static/js/main.ced88939.chunk.js.map",
-    "runtime-main.js": "/new-life-shop/static/js/runtime-main.75b36c58.js",
-    "runtime-main.js.map": "/new-life-shop/static/js/runtime-main.75b36c58.js.map",
-    "static/js/2.38ebd5db.chunk.js": "/new-life-shop/static/js/2.38ebd5db.chunk.js",
-    "static/js/2.38ebd5db.chunk.js.map": "/new-life-shop/static/js/2.38ebd5db.chunk.js.map",
-    "static/js/3.9f2cad20.chunk.js": "/new-life-shop/static/js/3.9f2cad20.chunk.js",
-    "static/js/3.9f2cad20.chunk.js.map": "/new-life-shop/static/js/3.9f2cad20.chunk.js.map",
+    "main.js": "/new-life-shop/static/js/main.04bb6702.chunk.js",
+    "main.js.map": "/new-life-shop/static/js/main.04bb6702.chunk.js.map",
+    "runtime-main.js": "/new-life-shop/static/js/runtime-main.b8023334.js",
+    "runtime-main.js.map": "/new-life-shop/static/js/runtime-main.b8023334.js.map",
+    "static/js/2.71bf16fc.chunk.js": "/new-life-shop/static/js/2.71bf16fc.chunk.js",
+    "static/js/2.71bf16fc.chunk.js.map": "/new-life-shop/static/js/2.71bf16fc.chunk.js.map",
+    "static/js/3.e188ce09.chunk.js": "/new-life-shop/static/js/3.e188ce09.chunk.js",
+    "static/js/3.e188ce09.chunk.js.map": "/new-life-shop/static/js/3.e188ce09.chunk.js.map",
     "static/js/4.670dc2a2.chunk.js": "/new-life-shop/static/js/4.670dc2a2.chunk.js",
     "static/js/4.670dc2a2.chunk.js.map": "/new-life-shop/static/js/4.670dc2a2.chunk.js.map",
     "static/js/5.1b3f091b.chunk.js": "/new-life-shop/static/js/5.1b3f091b.chunk.js",
     "static/js/5.1b3f091b.chunk.js.map": "/new-life-shop/static/js/5.1b3f091b.chunk.js.map",
     "index.html": "/new-life-shop/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/new-life-shop/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.38ebd5db.chunk.js.LICENSE.txt": "/new-life-shop/static/js/2.38ebd5db.chunk.js.LICENSE.txt"
+    "static/js/2.71bf16fc.chunk.js.LICENSE.txt": "/new-life-shop/static/js/2.71bf16fc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.75b36c58.js",
-    "static/js/2.38ebd5db.chunk.js",
+    "static/js/runtime-main.b8023334.js",
+    "static/js/2.71bf16fc.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.ced88939.chunk.js"
+    "static/js/main.04bb6702.chunk.js"
   ]
 }
