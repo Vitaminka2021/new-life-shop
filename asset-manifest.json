@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/new-life-shop/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/new-life-shop/static/js/main.e4dc7611.chunk.js",
-    "main.js.map": "/new-life-shop/static/js/main.e4dc7611.chunk.js.map",
+    "main.js": "/new-life-shop/static/js/main.1d224c46.chunk.js",
+    "main.js.map": "/new-life-shop/static/js/main.1d224c46.chunk.js.map",
     "runtime-main.js": "/new-life-shop/static/js/runtime-main.3b40a9bc.js",
     "runtime-main.js.map": "/new-life-shop/static/js/runtime-main.3b40a9bc.js.map",
     "static/js/2.38ebd5db.chunk.js": "/new-life-shop/static/js/2.38ebd5db.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.3b40a9bc.js",
     "static/js/2.38ebd5db.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.e4dc7611.chunk.js"
+    "static/js/main.1d224c46.chunk.js"
   ]
 }
