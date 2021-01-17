@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/new-life-shop/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/new-life-shop/static/js/main.fd0cd1bc.chunk.js",
-    "main.js.map": "/new-life-shop/static/js/main.fd0cd1bc.chunk.js.map",
-    "runtime-main.js": "/new-life-shop/static/js/runtime-main.70a8d969.js",
-    "runtime-main.js.map": "/new-life-shop/static/js/runtime-main.70a8d969.js.map",
-    "static/js/2.d26e7d12.chunk.js": "/new-life-shop/static/js/2.d26e7d12.chunk.js",
-    "static/js/2.d26e7d12.chunk.js.map": "/new-life-shop/static/js/2.d26e7d12.chunk.js.map",
-    "static/js/3.fb87f5a4.chunk.js": "/new-life-shop/static/js/3.fb87f5a4.chunk.js",
-    "static/js/3.fb87f5a4.chunk.js.map": "/new-life-shop/static/js/3.fb87f5a4.chunk.js.map",
-    "static/js/4.111d77f4.chunk.js": "/new-life-shop/static/js/4.111d77f4.chunk.js",
-    "static/js/4.111d77f4.chunk.js.map": "/new-life-shop/static/js/4.111d77f4.chunk.js.map",
-    "static/js/5.d61ae897.chunk.js": "/new-life-shop/static/js/5.d61ae897.chunk.js",
-    "static/js/5.d61ae897.chunk.js.map": "/new-life-shop/static/js/5.d61ae897.chunk.js.map",
+    "main.js": "/new-life-shop/static/js/main.e4dc7611.chunk.js",
+    "main.js.map": "/new-life-shop/static/js/main.e4dc7611.chunk.js.map",
+    "runtime-main.js": "/new-life-shop/static/js/runtime-main.3b40a9bc.js",
+    "runtime-main.js.map": "/new-life-shop/static/js/runtime-main.3b40a9bc.js.map",
+    "static/js/2.38ebd5db.chunk.js": "/new-life-shop/static/js/2.38ebd5db.chunk.js",
+    "static/js/2.38ebd5db.chunk.js.map": "/new-life-shop/static/js/2.38ebd5db.chunk.js.map",
+    "static/js/3.dbfa5d06.chunk.js": "/new-life-shop/static/js/3.dbfa5d06.chunk.js",
+    "static/js/3.dbfa5d06.chunk.js.map": "/new-life-shop/static/js/3.dbfa5d06.chunk.js.map",
+    "static/js/4.670dc2a2.chunk.js": "/new-life-shop/static/js/4.670dc2a2.chunk.js",
+    "static/js/4.670dc2a2.chunk.js.map": "/new-life-shop/static/js/4.670dc2a2.chunk.js.map",
+    "static/js/5.3aef2563.chunk.js": "/new-life-shop/static/js/5.3aef2563.chunk.js",
+    "static/js/5.3aef2563.chunk.js.map": "/new-life-shop/static/js/5.3aef2563.chunk.js.map",
     "index.html": "/new-life-shop/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/new-life-shop/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.d26e7d12.chunk.js.LICENSE.txt": "/new-life-shop/static/js/2.d26e7d12.chunk.js.LICENSE.txt"
+    "static/js/2.38ebd5db.chunk.js.LICENSE.txt": "/new-life-shop/static/js/2.38ebd5db.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.70a8d969.js",
-    "static/js/2.d26e7d12.chunk.js",
+    "static/js/runtime-main.3b40a9bc.js",
+    "static/js/2.38ebd5db.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.fd0cd1bc.chunk.js"
+    "static/js/main.e4dc7611.chunk.js"
   ]
 }
