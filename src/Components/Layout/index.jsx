@@ -1,6 +1,6 @@
 import React from 'react'
 import { Suspense, lazy } from 'react'
-import { Switch, Route, Redirect, HashRouter } from 'react-router-dom'
+import { Switch, Route, Redirect } from 'react-router-dom'
 
 import Footer from '../Footer'
 import Header from '../Header'
