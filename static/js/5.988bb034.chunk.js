@@ -1,0 +1,2 @@
+(this["webpackJsonpnew-life-shop"]=this["webpackJsonpnew-life-shop"]||[]).push([[5],{153:function(s,e,o){"use strict";o.r(e);var p=o(3);o(0);e.default=function(s){var e=s.props;return console.log("props",e),Object(p.jsx)("div",{})}}}]);
+//# sourceMappingURL=5.988bb034.chunk.js.map
