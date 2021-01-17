@@ -1,0 +1,1 @@
+{"version":3,"sources":["Pages/MainPage/index.jsx"],"names":["MainPage"],"mappings":"6IAUeA,UARE,WACf,OACE,iCACE","file":"static/js/3.9f2cad20.chunk.js","sourcesContent":["import React from 'react'\r\n\r\nconst MainPage = () => {\r\n  return (\r\n    <footer>\r\n      <p>MainPage 123</p>\r\n    </footer>\r\n  )\r\n}\r\n\r\nexport default MainPage\r\n"],"sourceRoot":""}
