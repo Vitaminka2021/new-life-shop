@@ -18,9 +18,24 @@ const Layout = () => {
         <main className="main">
           <Suspense fallback={<p>Loading ...</p>}>
             <Switch>
-              <Route exact path="/" component={MainPage} />
-              <Route exact path="/product/:id" component={ProductPage} />
-              <Route exact path="/products/:alias" component={ProductsPage} />
+              <Route
+                exact
+                path={`${process.env.PUBLIC_URL}/`}
+                component={MainPage}
+              />
+              {/* <Route exact path="/" component={MainPage} /> */}
+              <Route
+                exact
+                path={`${process.env.PUBLIC_URL}/:alias`}
+                component={ProductPage}
+              />
+              {/* <Route exact path="/product/:id" component={ProductPage} /> */}
+              <Route
+                exact
+                path={`${process.env.PUBLIC_URL}/products/:alias`}
+                component={ProductsPage}
+              />
+              {/* <Route exact path="/products/:alias" component={ProductsPage} /> */}
               <Redirect to="/404" />
             </Switch>
           </Suspense>

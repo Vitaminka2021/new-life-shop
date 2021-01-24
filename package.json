@@ -2,7 +2,6 @@
   "name": "new-life-shop",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vitaminka2021.github.io/new-life-shop/",
   "dependencies": {
     "@material-ui/core": "^4.11.2",
     "@material-ui/icons": "^4.11.2",

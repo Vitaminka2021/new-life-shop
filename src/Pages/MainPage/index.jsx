@@ -3,7 +3,7 @@ import React from 'react'
 const MainPage = () => {
   return (
     <footer>
-      <p>MainPage</p>
+      <p>MainPage test</p>
     </footer>
   )
 }

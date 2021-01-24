@@ -68,7 +68,7 @@ export default function Header() {
               onClose={handleClose}
             >
               <MenuItem onClick={handleClose}>
-                <Link to="/">Home</Link>
+                <Link to={`${process.env.PUBLIC_URL}`}>Home</Link>
               </MenuItem>
               <MenuItem onClick={handleClose}>
                 <Link to="/products">Products</Link>

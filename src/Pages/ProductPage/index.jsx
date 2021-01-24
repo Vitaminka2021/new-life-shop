@@ -1,10 +1,13 @@
 import React from 'react'
 
-const ProductPage = () => {
+const ProductPage = ({ props }) => {
+  // const item = props.location.state.item
+  console.log('props', props)
   return (
-    <footer>
-      <p>ProductPage</p>
-    </footer>
+    <div>
+      {/* <p>{item.name}</p>
+      <p>description {item.description}</p> */}
+    </div>
   )
 }
 

@@ -1,9 +1,13 @@
 import Layout from './Components/Layout'
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
+import { Router, Switch, Route } from 'react-router-dom'
+import { createBrowserHistory } from 'history'
+
+const history = createBrowserHistory()
 
 const App = () => {
   return (
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router history={history}>
+      {/* // <Router history={browserHistory}> basename={process.env.PUBLIC_URL} */}
       <Switch>
         <Route path="*" component={Layout} />
       </Switch>

@@ -50,7 +50,7 @@ export const SubCategory = ({ categoryName, subcategory, img }) => {
               key={i}
               component={Link}
               to={{
-                pathname: `/products/${subcategory.subcategoryName}`,
+                pathname: `${process.env.PUBLIC_URL}/products/${subcategory.subcategoryName}`,
                 state: { subcategory },
               }}
             >
